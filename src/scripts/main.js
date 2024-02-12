@@ -1,1 +1,1 @@
-console.log('oi phillipe');
+AOS.init();
